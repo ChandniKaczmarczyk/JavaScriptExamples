@@ -1,0 +1,2 @@
+# JavaScriptExamples
+Contains JavaScript examples 
